@@ -209,6 +209,7 @@ footer {
 @media only screen and (min-width: 731px) {
     header{
         width: 100%;
+        height: 500px;
         background-size: contain;
     }
 
